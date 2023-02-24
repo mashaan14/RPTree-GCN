@@ -1,3 +1,16 @@
+## Random Projection Forest Initialization for Graph Convolutional Networks
+This is an implementation for the following paper:
+```
+@misc{https://doi.org/10.48550/arxiv.2302.12001,
+	url = {https://arxiv.org/abs/2302.12001},
+  	author = {Alshammari, Mashaan and Stavrakakis, John and Ahmed, Adel F. and Takatsuka, Masahiro},
+  	title = {Random Projection Forest Initialization for Graph Convolutional Networks},
+  	publisher = {arXiv},
+  	year = {2023}
+}
+
+```
+
 ### Files that we modified from the original [GCN](https://github.com/tkipf/gcn) code
 - \GCN\RPTree.py
 	a code that returns an rpTree given a feature matrix X
