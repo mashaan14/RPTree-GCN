@@ -1,6 +1,8 @@
 ## Random Projection Forest Initialization for Graph Convolutional Networks
 
-[![Paper](http://img.shields.io/badge/arXiv-2302.12001-b31b1b.svg)](https://arxiv.org/abs/2302.12001) 
+[![Paper](http://img.shields.io/badge/arXiv-2302.12001-b31b1b.svg)](https://arxiv.org/abs/2302.12001)
+[![Papers with Code](http://img.shields.io/badge/PaperswithCode-2302.12001-21cbce.svg)](https://paperswithcode.com/paper/random-projection-forest-initialization-for)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-1.15-brightgreen.svg)]()
 
 This is an implementation for the following paper:
