@@ -1,7 +1,7 @@
 ## Random Projection Forest Initialization for Graph Convolutional Networks
 
 [![Paper](http://img.shields.io/badge/arXiv-2302.12001-b31b1b.svg)](https://arxiv.org/abs/2302.12001) 
-[![TensorFlow 1.15](https://img.shields.io/badge/tensorflow-1.15-brightgreen)
+[![TensorFlow 1.15](https://img.shields.io/badge/tensorflow-1.15-brightgreen.svg)]
 
 This is an implementation for the following paper:
 ```bibtex
