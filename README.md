@@ -53,7 +53,5 @@ This is an implementation for the following paper:
 	- `activate tf15`
 	- `spyder`
 ---
-written by Mashaan Alshammari<br/>
-mashaan14 at gmail dot com<br/>
-mashaan dot awad at outlook dot com<br/>
+written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
 April 23, 2022.
