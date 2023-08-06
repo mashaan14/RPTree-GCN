@@ -5,7 +5,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-1.15-brightgreen.svg)]()
 
-This is an implementation for the following paper:
+### arXiv preprint
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2302.12001,
 	url = {https://arxiv.org/abs/2302.12001},
