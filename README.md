@@ -52,6 +52,3 @@ This is an implementation for the following paper:
 - To start working in this enviroment, launch Anaconda Prompt and type:
 	- `activate tf15`
 	- `spyder`
----
-written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
-April 23, 2022.
