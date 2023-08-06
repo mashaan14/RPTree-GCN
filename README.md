@@ -36,12 +36,12 @@
 	
 
 ### Files that we modified from the original [LDS](https://github.com/lucfra/LDS-GNN) code
-- \LDS\RPTree.py
-	a code that returns an rpTree given a feature matrix X
-- \LDS\lds.py
-	in line 302 we added a code that returns an adjacency matrix based on rpForest
-- \LDS\hyperparams.py
-	in line 177 we added a code that randomly picks a percentage of edges that were missed by rpForest
+- `\LDS\RPTree.py`
+	- a code that returns an rpTree given a feature matrix X
+- `\LDS\lds.py`
+	- in line 302 we added a code that returns an adjacency matrix based on rpForest
+- `\LDS\hyperparams.py`
+	- in line 177 we added a code that randomly picks a percentage of edges that were missed by rpForest
 	
 
 ## Setup
