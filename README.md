@@ -27,12 +27,12 @@
 ```
 
 ### Files that we modified from the original [GCN](https://github.com/tkipf/gcn) code
-- \GCN\RPTree.py
-	a code that returns an rpTree given a feature matrix X
-- \GCN\utils.py
-	in line 99 we added a function called `load_data_rpForest` that returns an adjacency matrix based on rpForest
-- \GCN\train.py
-	in line 29 we called the function `utils.load_data_rpForest` to work on adjacency matrix based on rpForest
+- `\GCN\RPTree.py`
+	- a code that returns an rpTree given a feature matrix X
+- `\GCN\utils.py`
+	- in line 99 we added a function called `load_data_rpForest` that returns an adjacency matrix based on rpForest
+- `\GCN\train.py`
+	- in line 29 we called the function `utils.load_data_rpForest` to work on adjacency matrix based on rpForest
 	
 
 ### Files that we modified from the original [LDS](https://github.com/lucfra/LDS-GNN) code
