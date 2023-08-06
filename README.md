@@ -8,13 +8,22 @@
 ### arXiv preprint
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2302.12001,
-	url = {https://arxiv.org/abs/2302.12001},
-  	author = {Alshammari, Mashaan and Stavrakakis, John and Ahmed, Adel F. and Takatsuka, Masahiro},
+	url = {https://arxiv.org/abs/2302.12001},  	
   	title = {Random Projection Forest Initialization for Graph Convolutional Networks},
+	author = {Alshammari, Mashaan and Stavrakakis, John and Ahmed, Adel F. and Takatsuka, Masahiro},
   	publisher = {arXiv},
   	year = {2023}
 }
-
+```
+### paper
+```bibtex
+@article{ALSHAMMARI2023102315,
+	title = {Random Projection Forest Initialization for Graph Convolutional Networks},
+	author = {Mashaan Alshammari and John Stavrakakis and Adel F. Ahmed and Masahiro Takatsuka}
+	journal = {MethodsX},
+	year = {2023},
+	doi = {https://doi.org/10.1016/j.mex.2023.102315},	
+}
 ```
 
 ### Files that we modified from the original [GCN](https://github.com/tkipf/gcn) code
@@ -35,7 +44,7 @@
 	in line 177 we added a code that randomly picks a percentage of edges that were missed by rpForest
 	
 
-## Python Setup
+## Setup
 
 - Download and install Anaconda Navigator
 - launch Anaconda Prompt to execute the following commands:
