@@ -47,7 +47,7 @@
 ## Setup
 
 - Download and install Anaconda Navigator
-- launch Anaconda Prompt to execute the following commands:
+- launch Anaconda Prompt and run the following commands:
 	- `conda create -n tf15 python tensorflow=1.15`
 	- `conda activate tf15`
 	- `conda remove --force tensorflow-estimator`
