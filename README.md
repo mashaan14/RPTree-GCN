@@ -8,11 +8,11 @@
 ### arXiv preprint
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2302.12001,
-	url = {https://arxiv.org/abs/2302.12001},  	
-  	title = {Random Projection Forest Initialization for Graph Convolutional Networks},
-	author = {Alshammari, Mashaan and Stavrakakis, John and Ahmed, Adel F. and Takatsuka, Masahiro},
+	url =       {https://arxiv.org/abs/2302.12001},  	
+  	title =     {Random Projection Forest Initialization for Graph Convolutional Networks},
+	author =    {Alshammari, Mashaan and Stavrakakis, John and Ahmed, Adel F. and Takatsuka, Masahiro},
   	publisher = {arXiv},
-  	year = {2023}
+  	year =      {2023}
 }
 ```
 ### paper
